@@ -20,7 +20,7 @@ https://youtu.be/JsOR7OZvttI?t=7029 (empieza en 1:57:00) -->
 
 ### Libros 
 
-##### Tener en cuenta que hay dos Reif:
+##### Tener en cuenta que hay dos Reif con distinto contenido:
 - Curso de Fisica de Berkeley (**Reif**)
 - Fundamentals of Statistical and Thermal Physics (**Reif Ingles**)
 
