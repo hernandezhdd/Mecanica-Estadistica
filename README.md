@@ -16,3 +16,27 @@ https://www.youtube.com/watch?v=8JiWWvEoaoc&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0
 
 <!-- ### Problema de banda elastica (Problema 3.8)
 https://youtu.be/JsOR7OZvttI?t=7029 (empieza en 1:57:00) -->
+
+
+### Libros
+
+- Independencia estadística en física y fluctuaciones: **Landau, Seccion 2**
+- Conjuntos Estadisticos o Ensambles: **Reif, Seccion 2.1**
+- Probabilidad, reglas básicas: **Reif, Seccion 2.2**
+- Distribución Binomial como sistema de spines: **Reif, Seccion 2.3**
+- Probabilidad, valores medios y fluctuaciones: **Reif, Seccion 2.4**
+- Descripción microscópica y conteo de microestados: **Reif, Seccion 3.1**
+- Ensamble Microcanocico, microestados y probabilidad: **Reif, Seccion 3.4 y 3.5**
+- Conteo Clásico de Microestados: **Reif, Seccion 6.1**
+- Tendencia al equilibrio y probabilidad: **Reif, Seccion 3.3**
+- Deduccion de la Distribucion Canónica: **Reif, Seccion 4.1 y 4.5**
+- Gas Ideal tratado cuanticamente en canonico: **Reif, Seccion 4.7**
+- Distribución de Maxwell: **Landau, Seccion 29**
+- Oscilador Armonico: **Landau, Seccion 30**
+- Funcion Particion: **Landau, Seccion 31**
+- Gran Canonico: **Landau, Seccion 35**
+- Gas ideal, deducción Distribución de Boltzmann: **Landau, Seccion 37 y 38**
+- Gas ideal, deducción Microcanonica de la Distribución de Boltzmann: **Landau, Seccion 40**
+- Gas ideal, función partición y ecuacion de estado: **Landau, Seccion 41 y 45**
+- Gas ideal, rotacion y vibracion: **Landau, Seccion 47**
+- Oscilador armónico cuantico: **Landau, Seccion 49**
