@@ -8,8 +8,8 @@ Contiene las simulaciones, y las guías.
 
 https://www.youtube.com/playlist?list=PLJYfKkXe64aw4bU3ZV8-IK9n_tk2Cl9Bo
 
-### Ejemplo importante de cobinatoria - Libros en cajas (minuto 31)   
-https://youtu.be/L0k8vHyX8jc?t=1860
+### Ejemplo importante de cobinatoria - Libros en cajas 
+https://youtu.be/L0k8vHyX8jc?t=1860 (minuto 31)
 
 ### Lista de reproducción de conteo y combinatoria (videos 28-38)
 https://www.youtube.com/watch?v=8JiWWvEoaoc&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&index=28
