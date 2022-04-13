@@ -16,7 +16,7 @@ Lista de reproducción de conteo y combinatoria (videos 28-38)
 
 https://www.youtube.com/watch?v=8JiWWvEoaoc&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&index=28
 
-####  Guía 3 - Lista de Youtube con soluciones de los problemas
+####  Guía 3 - Lista de Youtube con soluciones de problemas
 
 https://www.youtube.com/playlist?list=PLJYfKkXe64awpIzWyyD1F5QWdKJO7kU5f
 
