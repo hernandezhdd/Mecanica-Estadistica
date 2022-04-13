@@ -46,6 +46,6 @@ https://youtu.be/JsOR7OZvttI?t=7029 (empieza en 1:57:00) -->
 - Gran Canonico: **Landau, Seccion 35**
 - Gas ideal, deducción Distribución de Boltzmann: **Landau, Seccion 37 y 38**
 - Gas ideal, deducción Microcanonica de la Distribución de Boltzmann: **Landau, Seccion 40**
-- Gas ideal, función partición y ecuacion de estado: **Landau, Seccion 41 y 45** y **Reif, Seccion 7.2**
+- Gas ideal, función partición y ecuacion de estado: **Landau, Seccion 41 y 45** y **Reif Ingles, Seccion 7.2**
 - Gas ideal, rotacion y vibracion: **Landau, Seccion 47**
 - Oscilador armónico cuantico: **Landau, Seccion 49**
