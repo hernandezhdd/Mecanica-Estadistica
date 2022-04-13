@@ -1,6 +1,6 @@
 # Repo de Mecanica Estadistica
 
-Contiene las simulaciones, y las guías.
+Contiene las simulaciones, las guías y examenes.
 
 ## Algunos Links útiles
 
