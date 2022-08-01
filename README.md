@@ -24,10 +24,11 @@ https://www.youtube.com/playlist?list=PLJYfKkXe64awpIzWyyD1F5QWdKJO7kU5f
 https://youtu.be/JsOR7OZvttI?t=7029 (empieza en 1:57:00) -->
 
 ### Libros 
-
+- Tong - Statistical Physics
 ##### Tener en cuenta que hay dos Reif con distinto contenido:
 - Curso de Fisica de Berkeley (**Reif Berkeley**)
 - Fundamentos de Física Estadística y Térmica (**Reif Fundamentos**)
+- Landau - Física Estadística
 
 ##### Secciones 
 
