@@ -2,6 +2,11 @@
 
 Contiene las simulaciones, las guías y examenes.
 
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/71747228/182160031-acbefc7f-1061-4bf1-92f1-ad7687b9dbd7.jpg" height="300" />
+  <img src="https://user-images.githubusercontent.com/71747228/182160535-584bea22-f58c-4c4a-b9d9-dca8848b2549.jpg" height="300" /> 
+</p>
+
 ### Algunos Links útiles
 
 #### Guía 2 - Lista de reproducción con videos de probabilidad y estadística
