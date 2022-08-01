@@ -23,12 +23,17 @@ https://www.youtube.com/playlist?list=PLJYfKkXe64awpIzWyyD1F5QWdKJO7kU5f
 <!-- ### Problema de banda elastica (Problema 3.8)
 https://youtu.be/JsOR7OZvttI?t=7029 (empieza en 1:57:00) -->
 
-### Libros 
-- Tong - Statistical Physics
-##### Tener en cuenta que hay dos Reif con distinto contenido:
-- Curso de Fisica de Berkeley (**Reif Berkeley**)
-- Fundamentos de Física Estadística y Térmica (**Reif Fundamentos**)
-- Landau - Física Estadística
+### Libros, ordenados por complejidad
+##### Tener en cuenta que hay dos Reif con distinto contenido
+1. **Curso de Fisica de Berkeley (_Reif Berkeley_)**: simple y muy claro, no tiene los temas de estadística cuántica. Primera lectura recomendada para los primeros temas.
+2. **Tong - Statistical Physics**: simple y claro, hace todo bien pero sin tanto detalle. Primera lectura recomendada para todos los temas.
+3. **Fundamentos de Física Estadística y Térmica (_Reif Fundamentos_)**: claro y al nivel de la materia. El más apropiado en general.
+4. **Landau - Física Estadística**: tiene los razonamientos más detallados y las cuentas más simples, es un poco conciso en general. 
+
+### Resumenes
+- Ensambles UBA: muy buena explicación sobre la utilidad de los distintos ensambles.
+- Estadística Cuántica UBA: excelente, detallado y claro con todo lo necesario sobre estadística cuántica.
+- 
 
 ##### Secciones 
 
