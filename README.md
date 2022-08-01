@@ -25,17 +25,19 @@ https://youtu.be/JsOR7OZvttI?t=7029 (empieza en 1:57:00) -->
 
 ### Libros, ordenados por complejidad
 ##### Tener en cuenta que hay dos Reif con distinto contenido
-1. **Curso de Fisica de Berkeley (_Reif Berkeley_)**: simple y muy claro, no tiene los temas de estadística cuántica. Primera lectura recomendada para los primeros temas.
-2. **Tong - Statistical Physics**: simple y claro, hace todo bien pero sin tanto detalle. Primera lectura recomendada para todos los temas.
-3. **Fundamentos de Física Estadística y Térmica (_Reif Fundamentos_)**: claro y al nivel de la materia. El más apropiado en general.
-4. **Landau - Física Estadística**: tiene los razonamientos más detallados y las cuentas más simples, es un poco conciso en general. 
+1. **Reif, Curso de Fisica de Berkeley (_Reif Berkeley_)**: simple y muy claro, no tiene los temas de estadística cuántica. Primera lectura recomendada para los primeros temas.
+2. **Tong, Statistical Physics**: simple y claro, hace todo bien pero sin tanto detalle. Primera lectura recomendada para todos los temas.
+3. **Reif, Fundamentos de Física Estadística y Térmica (_Reif Fundamentos_)**: claro y al nivel de la materia. El más apropiado en general.
+4. **Landau, Física Estadística**: tiene los razonamientos más detallados y las cuentas más simples, es un poco conciso y en partes dificil. 
 
-### Resumenes
-- Ensambles UBA: muy buena explicación sobre la utilidad de los distintos ensambles.
-- Estadística Cuántica UBA: excelente, detallado y claro con todo lo necesario sobre estadística cuántica.
-- 
+### Resumenes en el Drive
+- **Ensambles UBA**: muy buena explicación sobre la utilidad de los distintos ensambles.
+- **Estadística Cuántica UBA**: excelente, detallado y claro con todo lo necesario sobre estadística cuántica. ***Muy recomendado***.
+- Hay otros resumenes muy buenos de la UBA. Crédito al autor, Guillem Perez Nadal.
+- **Sección 37 del Landau, Estadística de Boltzmann**: resumen con comentarios sobre qué es un gas ideal. Como aplicar la distribución canónica y la deducción de la Estadística de Boltzmann. ***Muy recomendado***.
+- **Secciónes 52 y 53 del Landau, Estadísticas de F-D y B-E**: resumen con comentarios sobre qué es un gas ideal cuántico y por qué utilizamos el ensamble gran canónico. Deducción de las Estadísticas de Fermi-Dirac y Bose-Einstein. ***Muy recomendado***.
 
-##### Secciones 
+### Secciones 
 
 - Conjuntos Estadisticos o Ensambles: **Reif Berkeley, Seccion 2.1**
 - Probabilidad, reglas básicas: **Reif Berkeley, Seccion 2.2**
