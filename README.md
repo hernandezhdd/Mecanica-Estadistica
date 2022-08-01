@@ -27,7 +27,7 @@ https://youtu.be/JsOR7OZvttI?t=7029 (empieza en 1:57:00) -->
 
 ##### Tener en cuenta que hay dos Reif con distinto contenido:
 - Curso de Fisica de Berkeley (**Reif Berkeley**)
-- Fundamentals of Statistical and Thermal Physics (**Reif Fundamentos**)
+- Fundamentos de Física Estadística y Térmica (**Reif Fundamentos**)
 
 ##### Secciones 
 
