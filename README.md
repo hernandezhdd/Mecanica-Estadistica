@@ -7,6 +7,13 @@ Contiene las simulaciones, las guías y examenes.
   <img src="https://user-images.githubusercontent.com/71747228/182160535-584bea22-f58c-4c4a-b9d9-dca8848b2549.jpg" height="300" /> 
 </p>
 
+<p align="middle">
+  <b>Simulacion del gas ideal</b>. Autor del código: Rafael Fuente <a href="https://github.com/rafael-fuente/Ideal-Gas-Simulation-To-Verify-Maxwell-Boltzmann-distribution/">GitHub</a>
+</p>
+
+
+https://user-images.githubusercontent.com/71747228/182187190-5548bae4-de34-4743-885a-810c3e1b7e71.mp4
+
 ### Algunos Links útiles
 
 #### Guía 2 - Lista de reproducción con videos de probabilidad y estadística
