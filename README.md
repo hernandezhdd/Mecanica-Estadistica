@@ -28,7 +28,7 @@ https://youtu.be/JsOR7OZvttI?t=7029 (empieza en 1:57:00) -->
 1. **Reif, Curso de Fisica de Berkeley (_Reif Berkeley_)**: simple y muy claro, no tiene los temas de estadística cuántica. Primera lectura recomendada para los primeros temas.
 2. **Tong, Statistical Physics**: simple y claro, hace todo bien pero sin tanto detalle. Primera lectura recomendada para todos los temas.
 3. **Reif, Fundamentos de Física Estadística y Térmica (_Reif Fundamentos_)**: claro y al nivel de la materia. El más apropiado en general.
-4. **Landau, Física Estadística**: tiene los razonamientos más detallados y las cuentas más simples, es un poco conciso y en partes dificil. 
+4. **Landau, Física Estadística**: tiene los razonamientos más detallados y las cuentas más simples, es un poco conciso y en partes dificil. Recomendado para entender la teoría y para temas como aplicaciones del canónico y estadística cuántica. 
 
 ### Resumenes en el Drive
 - **Ensambles UBA**: muy buena explicación sobre la utilidad de los distintos ensambles.
